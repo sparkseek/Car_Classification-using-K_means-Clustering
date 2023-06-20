@@ -1,17 +1,15 @@
- #Customer_Churn_Prediction
-XG-Boost Model and Hyperparameter Tuning
-DOMAIN: Telecom
+Unsupervised Learning : Car Classification
+K-means Clustering
 
-CONTEXT: A  telecom  company  wants  to  use  their  historical  customer  data  to  predict  behaviour  to  retain  customers. Analyse  all relevant customer data and develop focused customer retention programs.
+Domain: Automobile 
 
-Data Description:Each  row  represents  a  customer,  each  column  contains  customer’s  attributes  described  on  the  column  Metadata.
+CONTEXT:The data concerns city-cycle fuel consumption in miles per gallon to be predicted in terms of 3 multivalued discrete and 5 
+continuous attributes
 
-The data set includes information about:
+Data Description:Various attributes of cars, engine displacement,weight, cylinder dimensions,mpg,acceleration and horse power are given along with the car names and the year of production.
 
-•Customers who left within the last month – the column is called Churn
-•Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-•Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
-•Demographic info about customers – gender, age range, and if they have partners and dependents
+Objective: To segment the cars into various categories using classification algorithm.
+
 
 
 
